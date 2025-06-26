@@ -14,8 +14,6 @@ My mantra in life is - "水に流す (mizu ni nagasu) “The water flows.”"
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yugen.da/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
-<img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
-
 ## 🔧 Technologies & Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
